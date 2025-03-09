@@ -1,6 +1,8 @@
 # vscode
 .vscode 
 
+*.zip
+
 # Intellij
 *.iml
 .idea
