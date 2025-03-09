@@ -1,0 +1,11 @@
+{
+	"id": "svg-panzoom",
+	"name": "SVG PanZoom",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Pan and Zoom SVG files.",
+	"author": "AlanJS",
+	"authorUrl": "https://github.com/AlanJs26",
+	"fundingUrl": "https://github.com/AlanJs26",
+	"isDesktopOnly": false
+}
